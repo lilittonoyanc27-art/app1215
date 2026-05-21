@@ -1,6 +1,5 @@
 {
   "name": "Gor vs Gayane: Pretérito Imperfecto",
   "description": "An interactive Spanish Pretérito Imperfecto grammar learning game and theory workspace in Armenian, featuring single-player and two-player Gor vs Gayane competitions.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": []
 }
