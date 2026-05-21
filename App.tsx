@@ -22,9 +22,9 @@ import {
 import { motion, AnimatePresence } from "motion/react";
 
 import { quizQuestions, Question } from "./questions";
-import { Avatar } from "./components/Avatar";
-import { TheorySection } from "./components/TheorySection";
-import { ConjugationPlayground } from "./components/ConjugationPlayground";
+import { Avatar } from "./Avatar";
+import { TheorySection } from "./TheorySection";
+import { ConjugationPlayground } from "./ConjugationPlayground";
 
 type GameMode = "single" | "multi";
 type Difficulty = "easy" | "medium" | "hard";
