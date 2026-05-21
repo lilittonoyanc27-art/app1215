@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { theoryData } from "../theory";
+import { theoryData } from "./theory";
 import { BookOpen, Star, Sparkles, HelpCircle, CheckCircle2 } from "lucide-react";
 import { motion } from "motion/react";
 
